@@ -24,7 +24,7 @@ This was my **first Python Tkinter project**, built in the first semester of col
 2. Run the following command:
 
 ```bash
-python main.py
+python project.py
 ```
 
 ## Why I Built This
